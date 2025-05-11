@@ -1,2 +1,3 @@
 this is master branch code
 some change from one branch
+changes from one to be rebased with conflicts in two
